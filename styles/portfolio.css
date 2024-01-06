@@ -140,8 +140,97 @@ nav ul a{
 
 }
 
+.what-i-do{
+    width: 700px;
+    margin: 0px auto;
+    text-align: center;
+    background-color: rgb(204, 211, 211);
+    padding:10px 10px;
+}
+
+ 
 
 
+
+.abut-caird{
+    display: flex;
+    text-align: center;
+}
+
+.card-datils{
+    background-color: azure;
+    box-shadow: 5px 5px 8px;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 8px;
+}
+
+
+.resume-section{
+    display: flex;
+    padding: 20px 30px;
+    width: 700px;
+    margin:0px auto;
+    text-align: center;
+}
+
+.resume-column{
+    margin-right: 10px;
+}
+
+.resume-mini{
+    margin-bottom: 0px;
+}
+
+.resume-desc{
+    margin-top: 0;
+}
+
+.btn{
+   margin: 0 auto;
+}
+
+
+.daw{
+    text-align: center;
+    margin-top: 20px;
+}
+
+footer{
+    display: flex;
+    margin-top: 20px;
+    padding:20px 50px;
+    background-color: rgb(216, 246, 236);
+}
+
+.foot-icon img{
+     width: 40px;
+    padding: 10px; 
+}
+
+.food-icon{
+    margin-top: 20px;
+}
+
+.food-main{
+    width: 50%;
+}
+  .form input[type="text"], .form input[type="email"], .area{
+        width: 100%;
+        border: none;
+        padding: 10px;
+        font-size: 20px;
+        font-weight: bold;
+        background-color: rgb(237, 234, 230);
+        margin: 10px;
+        border-radius: 10px;
+  }
+
+
+  .food-btn{
+    text-align: center;
+  }
+  
 
 
 
